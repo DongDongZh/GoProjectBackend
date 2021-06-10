@@ -1,6 +1,8 @@
 # GoProjectBackend: Cloud and React based Social Network
 Demo Video: https://drive.google.com/file/d/1mmt_G4oUEYSrjkRegGPQVF9qajVfRn4I/view 
 
+Frontend Code: https://github.com/DongDongZh/GoProjectFrontend
+
 Frontend
 
 * Designed and implemented a social network web application with React JS. 
